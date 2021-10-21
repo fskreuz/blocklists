@@ -1,0 +1,21 @@
+name: Build block lists
+on:
+  push:
+    branches:
+      - dev
+jobs:
+  release:
+    name: Generate hosts on builds branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current branch
+        uses: actions/checkout@v2
+      - name: Checkout builds branch
+        uses: actions/checkout@v2
+        with:
+          ref: builds
+          path: build
+      - name: Run generate script
+        run: ./scripts/generate.sh
+      - name: Run release script
+        run: ./scripts/release.sh

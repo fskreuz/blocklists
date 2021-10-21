@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.editorconfig
+!.github
+
+builds/
+
+*.tmp
+*.log
