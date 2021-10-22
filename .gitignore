@@ -3,7 +3,7 @@
 !.editorconfig
 !.github
 
-builds/
+build/
 
 *.tmp
 *.log
