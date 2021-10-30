@@ -1,4 +1,4 @@
-# Generated 2021-10-28 11:27:44+00:00
+# Generated 2021-10-30 10:38:44+00:00
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -17,6 +17,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 eytreontqf.xyz
 0.0.0.0 forflygonom.com
 0.0.0.0 gkidgpdvpe.xyz
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 hfgdidxi.xyz
 0.0.0.0 iqsaohldcfiuv.xyz
 0.0.0.0 lobhtwevnmgpxby.xyz
@@ -29,6 +30,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 onnnxftprfvm.xyz
 0.0.0.0 rcsqalkl.xyz
 0.0.0.0 static.cdnativepush.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 stats.wp.com
 0.0.0.0 tfjdafegolwrcr.xyz
 0.0.0.0 tgxykydgkgjvn.xyz
 0.0.0.0 ugcyllrneps.xyz
