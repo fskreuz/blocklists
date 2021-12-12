@@ -1,4 +1,4 @@
-# Generated 2021-12-12 07:03:57+00:00
+# Generated 2021-12-12 07:04:50+00:00
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -12,6 +12,7 @@ ff02::2         ip6-allrouters
 ff02::3         ip6-allhosts
 
 0.0.0.0 a.vdo.ai
+0.0.0.0 aikraith.net
 0.0.0.0 ajmgogcffrdevu.top
 0.0.0.0 android-boosters.com
 0.0.0.0 avcffausmmtxhar.top
